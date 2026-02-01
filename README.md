@@ -7,8 +7,11 @@ The objective of this task is to build a machine learning model to classify hand
 maodel Evaluation:
 
 K = 3, Accuracy = 0.9666666666666667
+
 K = 5, Accuracy = 0.9638888888888889
+
 K = 7, Accuracy = 0.9666666666666667
+
 K = 9, Accuracy = 0.9638888888888889
 
 
